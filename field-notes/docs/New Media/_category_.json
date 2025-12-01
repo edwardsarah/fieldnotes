@@ -1,0 +1,8 @@
+{
+  "label": "New Media",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Notes on new media technologies, like XR."
+  }
+}
