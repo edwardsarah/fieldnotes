@@ -1,0 +1,9 @@
+# Interactive vs. Participatory Experiences
+
+"Let me start by saying that an interactive exhibit is not the same as a participatory one. An interactive exhibit is still the single voice of the museum. The user is involved, but the museum continues to hold power. The visitor does something, the exhibit does something back and the visitor is then normally expected to learn a specific piece of information dictated by the museum - so it is outcome-driven." - Graham Black, Meeting the Audience Challenge in the Age of Participation (309)
+
+Graham goes on to charaterize participatory experiences as having outcomes outside the museum's direct control. There's an open-endedness to the experience.
+
+This is a useful framework for thinking about the impact an experience can have on the relationship between visitor and museum. Interactive experiences can be fun and engaging without fundamentally changing the flow of communication from museum to visitor. Participatory experience encourage conmunication in both directions. It can be helpful to think about this in terms of what impact the visitor's actions have, and how that differs from traditional museum practices. 
+
+Interaction and participation are not so much a binary as a continuum, with some actions falling more on the side of interaction and others to free participation. Interactions can be more or less participatory. Voting between a fixed number of options offers less room for participation than offering unstructured opinions on a subject. The type of participation also does not guarantee the impact of the actions. For example, the unstructured opinions could still be discarded, and the votes used to make an important decision.

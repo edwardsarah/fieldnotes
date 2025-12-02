@@ -1,0 +1,7 @@
+# Visual Thinking Strategies
+
+Visual Thinking Strategies is often used in art museums to facilitate dialogue around artworks to help participants notice details about the pieces and come to their own conclusions about its meaning. 
+
+ In the exercise, a facilitator guides the group discussion through open-ended questions about the artwork. Phillip Yenawine, one of the creators of Visual Thinking Strategies, explains that the goal of the practice was to move away from practices which told visitors the correct interpretation of a painting, toward a model which equipped them with the answers to discover meanings for themselves. The success of VTS is reliant on the structure provided by the facilitator, which allows participants to build up to more complex challenges through engaging with increasingly difficult problems.  The process is open-ended, with no ‘right’ answer. Instead, answers are acknowledged and then others are asked to contribute their own thoughts. The structural support guides the activity towards lines of inquiry that spark meaningful contributions and lead to greater curiosity. 
+
+ There are some similarities between VTS and slow looking, but slow looking can be done independently (rather than in a group), doesn't rely on guiding questions, and isn't directed in any particular direction. 

@@ -1,0 +1,7 @@
+# Something for Everyone
+
+In the Participatory Museum, Nina Simon notes that while many participatory experiences are creation-focused, not all museum visitors will want to participate in the same way. Options for editing, organizing content, favoriting submissions, and viewing creatings by others still allow for useful participation even if visitors do not want to create something of their own. These activities allow for participants to contribute at different levels of effort and in ways that speak to their particular interests.
+
+Many of the examples that Simon pulls from are social networks - places like YouTube, where all of these actions are present within the same ecosystem and contribute to the same whole. Viewers like, favorite, and comment on the same content that someone else has created, and without this, the site would lose its social function. 
+
+Cultural institutions do not have the same constraints on their participatory strategies as a social network. Where all of these things have to come together online, there may be creative ways to mix and match these strategies at different points in the visitor's journey. All this to say, it is helpful to think about providing different types of opportunities for participation, but that doesn't mean that each intervention needs to include every single one of them. Something for everyone, but not necessarily everything for everyone. 
